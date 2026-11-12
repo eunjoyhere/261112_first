@@ -45,5 +45,5 @@ ___
 1.
 <!-- ctrl + / -->
 
-- [] 체크박스? - github issue, readme 해석시 특수문법
+- [ ] 체크박스? - github issue, readme 해석시 특수문법
 - [x] 이게 체크된 것
